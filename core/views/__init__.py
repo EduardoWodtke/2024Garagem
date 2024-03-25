@@ -1,4 +1,4 @@
-from .user import UserViewSet
-from .categoria import CategoriaViewSet
 from .acessorio import AcessorioViewSet
+from .categoria import CategoriaViewSet
 from .marca import MarcaViewSet
+from .user import UserViewSet
