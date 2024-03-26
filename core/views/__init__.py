@@ -3,3 +3,4 @@ from .categoria import CategoriaViewSet
 from .marca import MarcaViewSet
 from .user import UserViewSet
 from .modelo import ModeloViewSet
+from .cor import CorViewSet
