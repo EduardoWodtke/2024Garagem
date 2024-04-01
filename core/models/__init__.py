@@ -4,3 +4,4 @@ from .cor import Cor
 from .marca import Marca
 from .modelo import Modelo
 from .user import User
+from .veiculo import Veiculo
